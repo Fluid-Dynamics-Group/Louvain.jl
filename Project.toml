@@ -1,0 +1,4 @@
+name = "Louvain"
+uuid = "60bfb446-7c2a-4de5-8d57-ae78245b479e"
+authors = ["Brooks <brooks@karlik.org>"]
+version = "0.1.0"
